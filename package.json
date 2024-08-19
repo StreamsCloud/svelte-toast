@@ -16,7 +16,7 @@
     "package": "zx build.mjs --packageOnly"
   },
   "peerDependencies": {
-    "svelte": "^3.57.0 || ^4.0.0 || ^5.0.0"
+    "svelte": "^3.57.0 || ^4.0.0 || ^5.0.0-next.225"
   },
   "devDependencies": {
     "@fontsource-variable/inter": "^5.0.3",
